@@ -97,5 +97,4 @@ public class AreaController {
         modelMap.put("success", areaService.deleteArea(areaId));
         return modelMap;
     }
-
 }
