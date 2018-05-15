@@ -44,7 +44,7 @@ public class Area {
         this.createTime = createTime;
     }
 
-    public Date getLastEditTime() {
+    public Date getLastEditTime(Date date) {
         return lastEditTime;
     }
 
